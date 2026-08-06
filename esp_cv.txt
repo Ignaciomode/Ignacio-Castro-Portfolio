@@ -1,0 +1,61 @@
+IGNACIO MANUEL CASTRO
+nachocastro62@gmail.com | +54 9 1123268947 | Ciudad Autónoma de Buenos Aires, Argentina
+Portafolio: https://ignaciomode.github.io/Ignacio-Castro-Portfolio/
+
+RESUMEN PROFESIONAL
+Programador de software y diseñador de entornos virtuales con 5+ años de experiencia técnica en desarrollo de videojuegos, software de capacitación, mantenimiento de sistemas y educación. Competente en C#, Python, Lua, Unity, Unreal Engine 5 y gestión de bases de datos. Trayectoria comprobada desarrollando aplicaciones interactivas, software de capacitación para instituciones gubernamentales y mentoría estudiantil. Buscando aprovechar experiencia técnica y habilidades de resolución de problemas en un rol desafiante de desarrollo.
+
+EXPERIENCIA LABORAL
+Desarrollador de Software de Capacitación y Enseñanza
+Junio 2026 – Presente | Armada Argentina
+Desarrollando software de capacitación y enseñanza para la Armada Argentina en equipo colaborativo de 3 desarrolladores
+Creé aplicaciones de capacitación interactivas utilizando Unity para apoyar iniciativas educativas militares
+Contribuí al software de capacitación crítico con énfasis en experiencia de usuario y accesibilidad
+Instructor de Programación
+Junio 2026 | Instituto Inmaculada Concepción de Almagro
+Enseñé a más de 30 estudiantes de secundaria fundamentos de programación en Python y Visual Basic
+Desarrollé y entregué contenido de lecciones atractivas para curso intensivo de una semana de programación
+Proporcioné orientación práctica a estudiantes en conceptos de programación orientada a objetos y aplicación práctica
+Diseñador de Niveles
+Febrero 2025 – Diciembre 2025 | Proyecto Actual
+Diseñé e implementé diseños de niveles atractivos para juego móvil, optimizando el flujo de juego y progresión del usuario
+Realicé pruebas de control de calidad e identifiqué problemas críticos de juego, mejorando la experiencia general del usuario
+Colaboré con equipo de desarrollo para diseñar y refinar mecánicas de juego, contribuyendo a sistemas de juego central
+Profesor Sustituto de Diseño de Niveles
+Agosto 2024 – Junio 2025 | Escuela Da vinci
+Desarrollé y entregué planes de lecciones atractivos para cursos de diseño de juegos a 20+ estudiantes
+Cubrí ausencias de instructores mientras mantenía continuidad educativa y logros de aprendizaje estudiantil
+Evalué el progreso estudiantil y proporcioné retroalimentación constructiva para apoyar el desarrollo de habilidades
+Asistente de Cátedra – Diseño y Programación de Videojuegos
+Agosto 2023 – Diciembre 2025 | Escuela Da vinci
+Asistí en la planificación y entrega del currículo para cursos de diseño y programación de videojuegos
+Proporcioné mentoría uno a uno a estudiantes con dificultades de aprendizaje, mejorando comprensión y retención
+Demostré competencia en C#, Unity y fundamentos de desarrollo de videojuegos
+Cajero y Especialista en Mantenimiento de Sistemas
+Mayo 2019 – Septiembre 2022 | Quesería Saint Germain
+Administré operaciones diarias de caja y transacciones de clientes con precisión del 100%
+Mantuve y resolví problemas de software comercial y equipos POS, minimizando tiempo de inactividad
+Administré cuentas comerciales e inventario, apoyando operaciones administrativas
+
+FORMACIÓN ACADÉMICA
+Diseñador y Programador de Simuladores Virtuales
+Escuela Da vinci de Arte Multimedia | Marzo 2021 – Marzo 2025
+Bachillerato con Orientación en Informática
+Instituto Virginio F. Grego | Marzo 2015 – Diciembre 2020
+Estudios de Idioma Francés (Nivel B1)
+Allianz Français de Buenos Aires | Abril 2019 – Septiembre 2023
+
+HABILIDADES Y COMPETENCIAS
+Desarrollo de Videojuegos:
+C#, Unity, Unreal Engine 5 (Blueprints), Diseño de Niveles, Diseño de Mecánicas
+Programación:
+C#, Python, Lua, HTML, CSS, Visual Basic, SQL
+Software y Herramientas:
+Microsoft Office, Git, Sistemas SAP, Principios de Arte 3D
+Adicionales:
+Atención al cliente, Mantenimiento de sistemas, Control de calidad, Apoyo educativo
+
+IDIOMAS
+Español: Nativo
+Inglés: C1 (Avanzado)
+Francés: B1 (Intermedio)
