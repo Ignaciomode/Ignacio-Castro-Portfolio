@@ -1,0 +1,61 @@
+IGNACIO MANUEL CASTRO
+nachocastro62@gmail.com | +54 9 1123268947 | Buenos Aires, Argentina
+Portfolio: https://ignaciomode.github.io/Ignacio-Castro-Portfolio/
+
+PROFESSIONAL SUMMARY
+Software programmer and virtual environment designer with 5+ years of technical experience in game development, training software, system maintenance, and education. Proficient in C#, Python, Lua, Unity, Unreal Engine 5, and database management. Proven track record developing interactive applications, training software for government institutions, and mentoring students. Seeking to leverage technical expertise and problem-solving skills in a challenging development role.
+
+PROFESSIONAL EXPERIENCE
+Training & Teaching Software Developer
+June 2026 – Present | Argentine Navy (Armada Argentina)
+Developing training and teaching software for Argentine Navy in collaborative team of 3 developers
+Built interactive training applications using Unity to support military educational initiatives
+Contributed to mission-critical training software with emphasis on user experience and accessibility
+Programming Instructor
+June 2026 | Instituto Inmaculada Concepción de Almagro
+Instructed 30+ high school students in Python and Visual Basic programming fundamentals
+Developed and delivered engaging lesson content for intensive one-week programming course
+Provided hands-on guidance to students in object-oriented programming concepts and practical application
+Level Designer
+February 2025 – December 2025 | Current Project
+Designed and implemented engaging level layouts for mobile game, optimizing gameplay flow and user progression
+Conducted quality assurance testing and identified critical gameplay issues, improving overall user experience
+Collaborated with development team to design and refine game mechanics, contributing to core gameplay systems
+Substitute Level Design Teacher
+August 2024 – June 2025 | Escuela Da vinci
+Developed and delivered engaging lesson plans for game design courses to 20+ students
+Covered for absent instructors while maintaining educational continuity and student learning outcomes
+Evaluated student progress and provided constructive feedback to support skill development
+Teaching Assistant – Game Design & Programming
+August 2023 – December 2025| Escuela Da vinci
+Assisted in curriculum planning and delivery for game design and programming courses
+Provided one-on-one mentoring to students with learning challenges, improving comprehension and retention
+Demonstrated proficiency in C#, Unity, and game development fundamentals
+Cashier & System Maintenance Specialist
+May 2019 – September 2022 | Quesería Saint Germain
+Managed daily cash operations and customer transactions with 100% accuracy
+Maintained and troubleshooted business software systems and POS equipment, minimizing downtime
+Managed business accounts and inventory, supporting administrative operations
+
+EDUCATION
+Designer & Programmer of Virtual Simulators
+Escuela Da Vinci de Arte Multimedia | March 2021 – March 2025
+High School Diploma – Information Technology
+Instituto Virginio F. Grego | March 2015 – December 2020
+French Language Studies (B1 Level)
+Allianz Français de Buenos Aires | April 2019 – September 2023
+
+SKILLS & COMPETENCIES
+Game Development:
+C#, Unity, Unreal Engine 5 (Blueprints), Level Design, Mechanics Design
+Programming:
+C#, Python, Lua, HTML, CSS, Visual Basic, SQL
+Software & Tools:
+Microsoft Office, Git, SAP systems, 3D Art principles
+Additional:
+Customer service, System maintenance, Quality assurance, Educational support
+
+LANGUAGES
+Spanish: Native
+English: C1 (Advanced)
+French: B1 (Intermediate)
